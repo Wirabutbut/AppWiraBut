@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PRlFEBE55C"],
    "expiry": "29-02-2036 12:00 PM"
 },
+   "alex0202": {
+   "password": "$2y$12$1KpQ0asJOricO2ESv4V2HO9SnHhy1EM6D2UfLF0ttpIBz4Yo5CNDm",
+   "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C"],
+   "expiry": "31-03-2029 12:59 PM"
+},
 }
