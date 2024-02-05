@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C"],
    "expiry": "31-03-2029 12:59 PM"
 },
+   "WRKC0001": {
+   "password": "$2y$12$VhDVTDqeWKfI2xXDs6TGcuYRUedD32ckdL28gJejq6hFhx7pBwmJa",
+   "devices": [],
+   "expiry": "25-02-2024 12:59 AM"
+},
 }
