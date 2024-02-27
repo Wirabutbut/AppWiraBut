@@ -39,4 +39,9 @@
    "devices": [],
    "expiry": "24-03-2024 12:00 PM"
 },
+   "pocox3nfc": {
+   "password": "$2y$12$xS.QUC0MLrBooLlQk5Tx6.D.uX.K7WINCucGfIikHEZKYW6MrUQ5a",
+   "devices": [],
+   "expiry": "30-03-2024 12:00 PM"
+},
 }
