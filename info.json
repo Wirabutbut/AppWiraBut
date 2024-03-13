@@ -89,4 +89,9 @@
    "devices": [],
    "expiry": "23-04-2024 12:00 PM"
 },
+   "redmi13mar": {
+   "password": "$2y$12$aXuoSPcWBR.cOhwERCm2cOjolS1QuO6u6aURUkhXyEzuF5axf8wru",
+   "devices": [],
+   "expiry": "24-04-2024 12:00 PM"
+},
 }
