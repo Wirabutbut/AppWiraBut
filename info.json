@@ -109,4 +109,9 @@
    "devices": [],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "redmi10selene": {
+   "password": "$2y$12$bpJ1xeJw27vMkaNVImd4W.WDr8v5U1JPHRQbMMkJ6Vx6EMNQggbka",
+   "devices": ["21061119AG40422C60D5F9AA9E"],
+   "expiry": "30-04-2024 12:00 PM"
+},
 }
