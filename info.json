@@ -139,4 +139,9 @@
    "devices": [],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "tecnospark20": {
+   "password": "$2y$12$4t4l36OaC70bp72Vj7E54eFhMa96VPa0hX4E8aQ2NCY9zrrR2J2l.",
+   "devices": [],
+   "expiry": "30-04-2024 12:00 PM"
+},
 }
