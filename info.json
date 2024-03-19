@@ -114,4 +114,9 @@
    "devices": ["21061119AG40422C60D5F9AA9E"],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "infinixsmart8": {
+   "password": "$2y$12$ehk2fcC5L4MSGX4UhPps3OrWWIqA.eCthMVIxGueg31o8Tp3LHx7S",
+   "devices": [],
+   "expiry": "30-04-2024 12:00 PM"
+},
 }
