@@ -164,4 +164,9 @@
    "devices": [],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "redmi13c": {
+   "password": "$2y$12$KdY0Vp2zi5HV5BObXNccTe1sZ5Gn/3y.iTd94SemhiT2KWnd3RMlC",
+   "devices": [],
+   "expiry": "30-04-2024 12:00 PM"
+},
 }
