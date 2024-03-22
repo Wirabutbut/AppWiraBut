@@ -174,4 +174,9 @@
    "devices": [],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "samsungm23": {
+   "password": "$2y$12$q.gnPO84nSRB0WtLbk0Ot.Wo3hnSq32RvPeRQxMT2IgvgjscdA5nm",
+   "devices": [],
+   "expiry": "30-04-2024 12:00 PM"
+},
 }
