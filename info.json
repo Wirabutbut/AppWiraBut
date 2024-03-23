@@ -194,4 +194,9 @@
    "devices": [],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "dandelion": {
+   "password": "$2y$12$gXx68pCF0VbX4yZ10tWyOO2JTjOe3D94eQQfyUXOYAE4B2YN1/Vs6",
+   "devices": [],
+   "expiry": "30-04-2024 12:00 PM"
+},
 }
