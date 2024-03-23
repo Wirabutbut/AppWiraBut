@@ -189,4 +189,9 @@
    "devices": [],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "nova2lite": {
+   "password": "$2y$12$6VRL1UG9o2bwfPhEWAHt8O/jxJ/lfIZUjZ36P0NVnntY7P3mX2Dfu",
+   "devices": [],
+   "expiry": "30-04-2024 12:00 PM"
+},
 }
