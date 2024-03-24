@@ -214,4 +214,9 @@
    "devices": [],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "smart8pro": {
+   "password": "$2y$12$6wN9AR8d9R.gxON4hCaxZ.ZJy7V8kwcNQcyOTBF.V496gyOKY91iq",
+   "devices": [],
+   "expiry": "30-04-2024 12:00 PM"
+},
 }
