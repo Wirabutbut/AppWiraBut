@@ -219,4 +219,9 @@
    "devices": [],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "samsunga12": {
+   "password": "$2y$12$jALNqpQCffZ.d6VB/SvwFOQmZht.lOU/csFz6m4WszjWs7ScFVp.y",
+   "devices": [],
+   "expiry": "30-04-2024 12:00 PM"
+},
 }
