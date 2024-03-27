@@ -229,4 +229,9 @@
    "devices": [],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "redminote10s": {
+   "password": "$2y$12$veFDNlWVoacTScgEzHwCk.f7dkhKrOwgm98rve0r.X3VNrGhmJeAW",
+   "devices": [],
+   "expiry": "30-04-2024 12:00 PM"
+},
 }
