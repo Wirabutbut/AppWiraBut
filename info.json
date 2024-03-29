@@ -249,4 +249,9 @@
    "devices": [],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "angelican": {
+   "password": "$2y$12$aHjtx635.or4JpHU4HnI3ud7klwta462VZfO3bj1dJN8qAUdYfhmu",
+   "devices": [],
+   "expiry": "30-04-2024 12:00 PM"
+},
 }
