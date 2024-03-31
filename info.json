@@ -254,4 +254,9 @@
    "devices": [],
    "expiry": "30-04-2024 12:00 PM"
 },
+   "redmia1ice": {
+   "password": "$2y$12$wqiQ5NBS2yTQzBkqMFrG2.YiP2kGzCrGHc5uy2vmtzfz4KzVS1kT.",
+   "devices": [],
+   "expiry": "15-05-2024 12:00 PM"
+},
 }
