@@ -259,4 +259,9 @@
    "devices": [],
    "expiry": "15-05-2024 12:00 PM"
 },
+   "samsungj7": {
+   "password": "$2y$12$4D77RV8t38UYubq0u7/7IeGclcYkqkMMj04b7RDXZjJGHibO/r1t.",
+   "devices": [],
+   "expiry": "25-05-2024 12:00 PM"
+},
 }
