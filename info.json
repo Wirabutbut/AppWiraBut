@@ -264,4 +264,9 @@
    "devices": [],
    "expiry": "25-05-2024 12:00 PM"
 },
+   "infinix40": {
+   "password": "$2y$12$4MhoY6El7cWTdKPcn/i6Met461/1KyYE2QbjqdHL9lcMTp2hOCjeO",
+   "devices": [],
+   "expiry": "31-05-2024 12:00 PM"
+},
 }
