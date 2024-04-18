@@ -279,4 +279,9 @@
    "devices": [],
    "expiry": "31-05-2024 12:00 PM"
 },
+   "angelica": {
+   "password": "$2y$12$r1cUEWhsW/7vLuImOdwPmuzk2nIYUbbY.qlGM468GfkZ4INRw1.8a",
+   "devices": [],
+   "expiry": "31-05-2024 12:00 PM"
+},
 }
