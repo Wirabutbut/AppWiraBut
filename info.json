@@ -304,4 +304,9 @@
    "devices": [],
    "expiry": "17-06-2024 12:00 PM"
 },
+   "redmi8olive": {
+   "password": "$2y$12$vueWrdadFejUfXmNFlfKAuO/Yv1IzBo2oagOZ9WwPjWz6tJlr5ZZq",
+   "devices": [],
+   "expiry": "16-06-2024 12:00 PM"
+},
 }
