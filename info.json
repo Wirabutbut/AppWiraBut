@@ -309,4 +309,9 @@
    "devices": [],
    "expiry": "16-06-2024 12:00 PM"
 },
+   "pocom35g": {
+   "password": "$2y$12$lYy8XzNlDrQaMw05jtlRIuwsZZlcDMZxalrfCFs7h98nz8aCx3/4y",
+   "devices": [],
+   "expiry": "15-06-2024 12:00 PM"
+},
 }
