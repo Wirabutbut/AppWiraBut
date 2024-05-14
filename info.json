@@ -314,4 +314,9 @@
    "devices": [],
    "expiry": "15-06-2024 12:00 PM"
 },
+   "rosemary": {
+   "password": "$2y$12$VSbppj.Q8V0ZaT1PmFRLUeBBZEpbmpvw6.04gPoZ5fGqYXsziZhji",
+   "devices": [],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
