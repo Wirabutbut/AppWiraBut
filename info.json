@@ -319,4 +319,9 @@
    "devices": [],
    "expiry": "30-06-2024 12:00 PM"
 },
+   "lavender": {
+   "password": "$2y$12$tFpk7Zg/r1rwzFy5c2Ddlu9KLi34JVpM2CMm2s4y59WSWwX3Ziv6O",
+   "devices": [],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
