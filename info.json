@@ -334,4 +334,9 @@
    "devices": [],
    "expiry": "30-06-2024 12:00 PM"
 },
+   "samsungj7prime": {
+   "password": "$2y$12$75EUoGAA1CMi3tdzpEeQd.SYmwVEpgF1ikkQHx0kPqHshzvXDlxja",
+   "devices": [],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
