@@ -329,4 +329,9 @@
    "devices": [],
    "expiry": "20-06-2024 12:00 PM"
 },
+   "samsungm53": {
+   "password": "$2y$12$U9TP846xrGiq2Z.lf5us0eZfpqKIZ8JkRuycsb3u/OiEGx4acux52",
+   "devices": [],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
