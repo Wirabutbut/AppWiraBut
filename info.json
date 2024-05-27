@@ -339,4 +339,9 @@
    "devices": [],
    "expiry": "30-06-2024 12:00 PM"
 },
+   "note12pro5g": {
+   "password": "$2y$12$1rjfM9ZJcNXWqBfDjK6El.TAHzZtoDNrqJzVBRMEmcR8RQDSA0Maa",
+   "devices": [],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
