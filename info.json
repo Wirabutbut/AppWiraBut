@@ -354,4 +354,9 @@
    "devices": [],
    "expiry": "30-06-2024 12:00 PM"
 },
+   "redmimerlin": {
+   "password": "$2y$12$GZYYL6YVJoXijp2DPZ/FTubD3J676qzj2FZo1tzYJ91FrkVXoPmT6",
+   "devices": [],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
