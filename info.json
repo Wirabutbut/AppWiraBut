@@ -344,4 +344,9 @@
    "devices": [],
    "expiry": "30-06-2024 12:00 PM"
 },
+   "maxprom1": {
+   "password": "$2y$12$3ErpX2mHAb7ZguiFT9p.U.WGvtAHm0oapZNd9vHi2HxZ8IWsJIlNu",
+   "devices": [],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
