@@ -349,4 +349,9 @@
    "devices": [],
    "expiry": "30-06-2024 12:00 PM"
 },
+   "redmisembilanc": {
+   "password": "$2y$12$4mASmTIBQnCnDRPi0BjbSevWkYSwtBwHLS2MDQy9cX.DOX3nMEVey",
+   "devices": [],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
