@@ -359,4 +359,9 @@
    "devices": [],
    "expiry": "30-06-2024 12:00 PM"
 },
+   "redmi29mei": {
+   "password": "$2y$12$ZtVFKemA0nBVIv79KO.TEOWthNAzTsMeoXNYJbjfuUB18kSNU.hj6",
+   "devices": [],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
