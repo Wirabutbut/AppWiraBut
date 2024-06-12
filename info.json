@@ -369,4 +369,9 @@
    "devices": [],
    "expiry": "30-06-2024 12:00 PM"
 },
+   "realmec21": {
+   "password": "$2y$12$7rKOmvYnRJzutj1.rMchLuldHOp/eQwwRNcPpJNs6cBXbo5nOJKC2",
+   "devices": [],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
