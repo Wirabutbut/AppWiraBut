@@ -384,4 +384,9 @@
    "devices": [],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "redmi12c": {
+   "password": "$2y$12$jKB7MQIR7o9cfweb4f3PpesNeU1uwKO3Avce2McYxaZT0DdScVF6u",
+   "devices": ["22120RN86G72FBB2190DAA5C07"],
+   "expiry": "31-08-2024 12:00 PM"
+},
 }
